@@ -1,0 +1,5 @@
+1. Functional Component with FC
+2. 1. Functional Component without FC 
+3. solve inline style object type error with "as const"
+4. Story with typescript extension (.tsx)
+5. Story with javascript extension (.js)

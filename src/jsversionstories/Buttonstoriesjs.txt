@@ -1,0 +1,16 @@
+import { Button } from "../components/Button/Button";
+
+export default {
+  title: "Button",
+  component: Button,
+};
+
+export const Black = () => (
+  <Button text="Press Me" varient="black" onclick={(e) => console.log(e)} />
+);
+export const Blue = () => (
+  <Button text="Press Me" varient="blue" onclick={(e) => console.log(e)} />
+);
+export const Green = () => (
+  <Button text="Press Me" varient="green" onclick={(e) => console.log(e)} />
+);
